@@ -34,7 +34,8 @@ Security and Privacy
 <!--Embed the Output picture at respective places as shown below as shown below-->
 #### Output1 - chatbot
 
-![image](https://github.com/user-attachments/assets/43d16195-c735-4856-84d0-c5f8a9b869fb)
+![Screenshot 2024-12-15 151643](https://github.com/user-attachments/assets/1f2414be-46ff-4331-88d9-76ce35c6c3a5)
+
 
 ## Results and Impact
 The continuous advancement in AI research,particularly in areas like natural languageprocessing and deep learning, will allowchatbotsto better understand nuanced humanconversationsand provide even more accurate andcontextuallyrelevant responses. This will further elevatetheuser experience, making interactions withchatbotsfeel more natural and intuitive, muchlikeconversing with a human representative.
